@@ -144,6 +144,15 @@
         "zany"
       ],
       "id": "14"
+    },
+    {
+      "name": "Ericca",
+      "species": "chimp",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "loving"
+      ],
+      "id": "15"
     }
   ]
 }
